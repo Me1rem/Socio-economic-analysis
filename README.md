@@ -40,17 +40,29 @@ Pulls are performed programmatically for a fixed date window (2018–2024).
 World Bank series IDs used in the notebook:
 
 NY.GDP.MKTP.CD — GDP (current US$)
+
 NY.GDP.MKTP.KD.ZG — GDP growth (annual %)
+
 NY.GNP.MKTP.CD — GNI (current US$)
+
 NY.GNP.MKTP.KD.ZG — GNI growth (annual %)
+
 FP.CPI.TOTL.ZG — Inflation, consumer prices (annual %)
+
 BX.KLT.DINV.CD.WD — FDI, net inflows (BoP, current US$)
+
 NE.GDI.TOTL.CD — Gross capital formation (current US$)
+
 SL.UEM.TOTL.ZS — Unemployment rate (overall unemployment)
+
 SI.POV.NAHC — Poverty headcount ratio at national poverty lines (% of population)
+
 SE.ADT.LITR.ZS — Adult literacy rate (% ages 15+)
+
 SP.DYN.LE00.IN — Life expectancy at birth (years)
+
 SP.POP.GROW — Population growth (annual %)
+
 SE.XPD.TOTL.GB.ZS — Government expenditure on education (% of GDP)
 
 ## Countries
