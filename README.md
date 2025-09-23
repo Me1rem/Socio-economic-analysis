@@ -71,9 +71,13 @@ Filtered to 15 country members from the World Bank: Angola, Botswana, Burundi, C
 
 ## Key Analytical Questions
 How does Education expenditure drive national income growth?
+
 How does population growth influence economic expansion?
+
 Does Foreign investment impact Gross capital formation ?
+
 Where is FDI concentrated and how has it shifted since 2018?
+
 What socio-economic factors (inflation, education spend) track with Unemployment?
 
 ## Notes & Limitations
