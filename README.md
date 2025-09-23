@@ -32,7 +32,7 @@ Build an Interactive Dashboard Design a Power BI dashboard that allows stakehold
 Support Policy and Research Discussions Provide a data-driven foundation for understanding how global economic giants are balancing growth with social development.
 
 ## Data Sources
-World Bank Open Data API via the Python package wbdata.
+World Bank Open Data API via the Python package wbdata.<a href="https://github.com/Me1rem/Socio-economic-analysis/blob/main/Socio%20economic%20parameters-1.ipynb">Python Analysis Notebook</a>
 
 Pulls are performed programmatically for a fixed date window (2018–2024).
 
@@ -82,6 +82,17 @@ What socio-economic factors (inflation, education spend) track with Unemployment
 
 ## Notes & Limitations
 API availability: The World Bank API occasionally returns missing values for certain series/years. Visuals handle gaps, but analyses should note coverage differences.
+
 The literacy indicator and Poverty indicators were dropped because it contained large null values.
+
+## Data Visualization
+The data was exported as an excel file,then extracted on Power BI
+Wireframing was done on Figma.
+<a href="https://github.com/Me1rem/Socio-economic-analysis/blob/main/Socio%20economic%20analysis2.pbix">Interact with the dashboard</a>
+
+<a href="https://github.com/Me1rem/Socio-economic-analysis/blob/main/Screenshot%202025-09-23%20123514.png">View dashboard</a>
+
+
+
 
 
