@@ -87,6 +87,7 @@ The literacy indicator and Poverty indicators were dropped because it contained 
 
 ## Data Visualization
 The data was exported as an excel file,then extracted on Power BI
+
 Wireframing was done on Figma.
 <a href="https://github.com/Me1rem/Socio-economic-analysis/blob/main/Socio%20economic%20analysis2.pbix">Interact with the dashboard</a>
 
