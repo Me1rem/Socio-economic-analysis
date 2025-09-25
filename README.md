@@ -67,7 +67,7 @@ SE.XPD.TOTL.GB.ZS — Government expenditure on education (% of GDP)
 
 ## Countries
 Filtered to 15 country members from the World Bank: Angola, Botswana, Burundi, Cameroon, Cote d'Ivore, Egypt, Ethiopia, Ghana
-,Morocco, Namibia, Nigeria, Rwanda, Senegal, Russia, Saudi Arabia, South Africa, Uganda.
+,Morocco, Namibia, Nigeria, Rwanda, Senegal,South Africa, Uganda.
 
 ## Key Analytical Questions
 How does Education expenditure drive national income growth?
